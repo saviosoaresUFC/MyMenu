@@ -1,0 +1,14 @@
+import api from './api'
+import type { MenuItem } from '@/types'
+
+export async function getMenuItems(): Promise<MenuItem[]> {
+  try {
+    const { data } = await api.get<{ data: MenuItem[] }>(
+      '/products',
+    )
+    return data.data
+  } catch (error) {
+    console.error('Erro ao buscar itens do cardápio:', error)
+    return []
+  }
+}
