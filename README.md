@@ -88,3 +88,10 @@ A barra de navegação precisa refletir o estado de autenticação e o conteúdo
 
 ---
 
+<img width="1100" height="863" alt="MyMenuLoginCadastro" src="https://github.com/user-attachments/assets/ed56b6fd-843a-4464-abb1-5d9eaf5e49c0" />
+
+<img width="1100" height="863" alt="MyMenuCardapioDeslogado" src="https://github.com/user-attachments/assets/6661830f-2de6-4d78-9ebf-974d81cc479b" />
+
+<img width="1100" height="863" alt="MyMenuCardapioLogado" src="https://github.com/user-attachments/assets/800c0a11-dd3c-46c7-a0f7-e34ca3c1ac98" />
+
+<img width="1100" height="863" alt="MyMenuCarrinho" src="https://github.com/user-attachments/assets/fc022741-19b6-4cd1-a137-bf3b536014a9" />
