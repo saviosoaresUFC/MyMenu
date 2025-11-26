@@ -7,7 +7,7 @@ Bem-vindo ao projeto **MyMenu**! Este é um front-end de uma aplicação de deli
 
 ## 🧭 Pré-requisitos Strapi
 
-A instância Strapi deve estar disponível em `http://localhost:1337` e atender:
+A instância Strapi deve estar disponível em `http://localhost:8080` e atender:
 
 1. Ter uma Collection Type `Product` (ou `Produto`) com campos:
 
